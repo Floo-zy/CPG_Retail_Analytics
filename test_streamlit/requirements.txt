@@ -92,13 +92,13 @@ rpds-py
 scipy
 seaborn
 setuptools
-six=
+six
 smmap
 soupsie
 st-annotated-text
 stack-data
-statsmodels=
-streamlit=
+statsmodels
+streamlit
 streamlit-camera-input-live
 streamlit-card
 streamlit-embedcode
@@ -107,7 +107,7 @@ streamlit-faker
 streamlit-image-coordinates
 streamlit-keyup
 streamlit-pandas-profiling
-streamlit-shadcn-ui=
+streamlit-shadcn-ui
 streamlit-toggle-switch
 streamlit-vertical-slider
 tangled-up-in-unicode
