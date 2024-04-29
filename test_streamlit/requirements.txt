@@ -94,7 +94,6 @@ seaborn
 setuptools
 six
 smmap
-soupsie
 st-annotated-text
 stack-data
 statsmodels
