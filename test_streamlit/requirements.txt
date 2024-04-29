@@ -29,8 +29,6 @@ htbuilder
 htmlmin
 idna
 ImageHash
-ipykernel
-ipython
 jedi
 Jinja2
 joblib
