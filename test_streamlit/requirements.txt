@@ -110,7 +110,6 @@ streamlit-vertical-slider
 tangled-up-in-unicode
 tenacity
 toml
-toolz
 torna
 tqdm
 traitlets
